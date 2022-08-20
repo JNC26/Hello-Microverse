@@ -38,10 +38,11 @@ git clone https://github.com/JNC26/Hello-Microverse.git
 
 ## Author
 
-👤 **jnc26**
+👤 **Juliet Nyangu**
 
 - GitHub: [@githubhandle](https://github.com/jnc26)
-
+Twitter: [@Juliet Nyangu](https://twitter.com/twitterhandle)
+- LinkedIn: [@Juliet Nyangu](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🤝 Contributing
