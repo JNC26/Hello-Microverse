@@ -32,15 +32,15 @@ vsCode and live server extension
 
 ### Install
 ```
-git clone git@github.com:zairdon20/
+git clone https://github.com/JNC26/Hello-Microverse.git
 ```
 
 
 ## Author
 
-👤 **zairdon20**
+👤 **jnc26**
 
-- GitHub: [@githubhandle](https://github.com/zairdon20)
+- GitHub: [@githubhandle](https://github.com/jnc26)
 
 
 
